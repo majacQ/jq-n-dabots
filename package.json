@@ -49,6 +49,10 @@
     "gatsby-plugin-sass": "^2.5.1",
     "gatsby-source-datocms": "^2.6.10",
     "gatsby-source-filesystem": "^2.5.0",
+  <<<<<<< snyk-fix-439289c7803a7ceb696a12d44d57585f
+    "gatsby-transformer-remark": "^4.0.0",
+    "node-sass": "^4.13.0",
+  =======
     "gatsby-transformer-remark": "^2.10.0",
   <<<<<<< snyk-fix-966335df5b1cd6d9a6e0ff3eb00ec04a
     "node-sass": "^5.0.0",
@@ -60,6 +64,7 @@
     "node-sass": "^5.0.0",
   =======
     "node-sass": "^7.0.1",
+  >>>>>>> atomist/npm-audit-circleci-project-setup
   >>>>>>> atomist/npm-audit-circleci-project-setup
   >>>>>>> atomist/npm-audit-circleci-project-setup
   >>>>>>> atomist/npm-audit-circleci-project-setup
