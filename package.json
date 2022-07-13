@@ -5,17 +5,25 @@
   "author": "Stefano Verna <s.verna@datocms.com>",
   "dependencies": {
     "dotenv": "^8.1.0",
+  <<<<<<< dependabot/npm_and_yarn/url-parse-1.5.10
+    "gatsby": "^4.8.0",
+  =======
   <<<<<<< snyk-fix-ccd74d75b5ad3e60953243ca932724c9
     "gatsby": "^3.13.0",
   =======
     "gatsby": "^3.14.0",
+  >>>>>>> atomist/npm-audit-circleci-project-setup
   >>>>>>> atomist/npm-audit-circleci-project-setup
     "gatsby-image": "^2.5.0",
     "gatsby-plugin-react-helmet": "^3.4.0",
     "gatsby-plugin-sass": "^2.5.1",
     "gatsby-source-datocms": "^2.6.10",
     "gatsby-source-filesystem": "^2.5.0",
+  <<<<<<< dependabot/npm_and_yarn/url-parse-1.5.10
+    "gatsby-transformer-remark": "^5.8.0",
+  =======
     "gatsby-transformer-remark": "^2.10.0",
+  >>>>>>> atomist/npm-audit-circleci-project-setup
     "node-sass": "^7.0.1",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
