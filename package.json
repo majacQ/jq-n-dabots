@@ -5,19 +5,66 @@
   "author": "Stefano Verna <s.verna@datocms.com>",
   "dependencies": {
     "dotenv": "^8.1.0",
-    "gatsby": "^2.32.3",
+  <<<<<<< snyk-fix-420f577821b55690e51b13e126b26a17
+    "gatsby": "^3.13.0",
+  =======
+  <<<<<<< snyk-fix-5288240d7964867e8e2e67d9b0f2f6e5
+    "gatsby": "^2.32.8",
+  =======
+  <<<<<<< snyk-fix-72da569cc06b72fa98b8711bf4d2a000
+    "gatsby": "^2.32.8",
+  =======
+  <<<<<<< snyk-fix-6b7ec5c5e924ca4be2ac8f56fd5d3245
+    "gatsby": "^3.0.0",
+  =======
+  <<<<<<< snyk-upgrade-66605660a8d788c8329a2a9d764bde95
+    "gatsby": "^2.32.11",
+    "gatsby-image": "^2.11.0",
+    "gatsby-plugin-react-helmet": "^3.10.0",
+    "gatsby-plugin-sass": "^2.8.0",
+    "gatsby-source-datocms": "^2.2.4",
+    "gatsby-source-filesystem": "^2.11.1",
+    "gatsby-transformer-remark": "^2.16.1",
+    "node-sass": "^4.13.0",
+  =======
+  <<<<<<< snyk-fix-3c2cce3fe932d2406811da9b98ed83dc
+    "gatsby": "^4.14.0",
+  =======
+  <<<<<<< snyk-fix-ccd74d75b5ad3e60953243ca932724c9
+    "gatsby": "^3.13.0",
+  =======
+    "gatsby": "^3.14.0",
+  >>>>>>> atomist/npm-audit-circleci-project-setup
+  >>>>>>> atomist/npm-audit-circleci-project-setup
+  >>>>>>> atomist/npm-audit-circleci-project-setup
+  >>>>>>> atomist/npm-audit-circleci-project-setup
+  >>>>>>> atomist/npm-audit-circleci-project-setup
+  >>>>>>> atomist/npm-audit-circleci-project-setup
     "gatsby-image": "^2.5.0",
     "gatsby-plugin-react-helmet": "^3.4.0",
     "gatsby-plugin-sass": "^2.5.1",
-    "gatsby-source-datocms": "^2.2.4",
+    "gatsby-source-datocms": "^2.6.10",
     "gatsby-source-filesystem": "^2.5.0",
     "gatsby-transformer-remark": "^2.10.0",
+  <<<<<<< snyk-fix-966335df5b1cd6d9a6e0ff3eb00ec04a
     "node-sass": "^5.0.0",
+  =======
+  <<<<<<< snyk-fix-4ff152c06033d1535bffff802646a408
+    "node-sass": "^5.0.0",
+  =======
+  <<<<<<< snyk-fix-160f252da336597a552defd4790eba73
+    "node-sass": "^5.0.0",
+  =======
+    "node-sass": "^7.0.1",
+  >>>>>>> atomist/npm-audit-circleci-project-setup
+  >>>>>>> atomist/npm-audit-circleci-project-setup
+  >>>>>>> atomist/npm-audit-circleci-project-setup
+  >>>>>>> atomist/npm-audit-circleci-project-setup
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-helmet": "^5.2.0",
     "react-masonry-component": "^6.2.1",
-    "react-slick": "^0.25.2",
+    "react-slick": "^0.28.1",
     "request": "^2.88.2",
     "slick-carousel": "^1.8.1"
   },
