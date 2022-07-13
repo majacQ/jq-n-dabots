@@ -42,10 +42,14 @@
     "gatsby-source-datocms": "^2.6.10",
     "gatsby-source-filesystem": "^2.5.0",
     "gatsby-transformer-remark": "^2.10.0",
+  <<<<<<< snyk-fix-4ff152c06033d1535bffff802646a408
+    "node-sass": "^5.0.0",
+  =======
   <<<<<<< snyk-fix-160f252da336597a552defd4790eba73
     "node-sass": "^5.0.0",
   =======
     "node-sass": "^7.0.1",
+  >>>>>>> atomist/npm-audit-circleci-project-setup
   >>>>>>> atomist/npm-audit-circleci-project-setup
   >>>>>>> atomist/npm-audit-circleci-project-setup
     "react": "^16.14.0",
