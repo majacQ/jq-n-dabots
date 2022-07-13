@@ -5,6 +5,9 @@
   "author": "Stefano Verna <s.verna@datocms.com>",
   "dependencies": {
     "dotenv": "^8.1.0",
+  <<<<<<< snyk-fix-13cbf10a94d369a1dea7e19a934949c3
+    "gatsby": "^4.6.0",
+  =======
   <<<<<<< snyk-fix-79ec2e801aa28f75c9455746e9bdf2f3
     "gatsby": "^3.13.0",
   =======
@@ -37,6 +40,7 @@
     "gatsby": "^3.13.0",
   =======
     "gatsby": "^3.14.0",
+  >>>>>>> atomist/npm-audit-circleci-project-setup
   >>>>>>> atomist/npm-audit-circleci-project-setup
   >>>>>>> atomist/npm-audit-circleci-project-setup
   >>>>>>> atomist/npm-audit-circleci-project-setup
