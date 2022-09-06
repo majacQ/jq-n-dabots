@@ -10,7 +10,7 @@
     "gatsby-plugin-react-helmet": "^3.10.0",
     "gatsby-plugin-sass": "^2.8.0",
     "gatsby-source-datocms": "^2.5.10",
-    "gatsby-source-filesystem": "^2.11.0",
+    "gatsby-source-filesystem": "^4.22.0",
     "gatsby-transformer-remark": "^5.19.0",
     "node-sass": "^7.0.1",
     "react": "^16.14.0",
